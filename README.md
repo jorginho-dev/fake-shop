@@ -23,3 +23,6 @@ DB_PORT	=>	Porta de conexão com o banco de dados PostgreSQL.
 ![alt text](image.png)
 
 ![alt text](image-1.png)
+
+### 🛠️ Dashboard
+![alt text](image-2.png)
